@@ -34,13 +34,19 @@ export default function Blog({ posts }) {
   return (
     <>
       <Head>
-        <meta property="og:title" content="Welcome to arjunyadav.net!" />
+        <meta
+          property="og:title"
+          content="Welcome to the Bear Blog Replacement Template!"
+        />
         <meta
           property="og:image"
           content="https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Welcome to arjunyadav.net!" />
+        <meta
+          name="twitter:title"
+          content="Welcome to the Bear Blog Replacement Template!"
+        />
         <title>Blog</title>
       </Head>
       <ul>
