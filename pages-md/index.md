@@ -11,7 +11,7 @@ This template comes _most_ of the features that [Bear Blog](https://bearblog.dev
 
 - [LaTeX support with KaTeX](/blog/markdown-latex-demo).
 - Greater customizability with meta tags/SEO.
-- Code highlighting.
+- [Code highlighting](/blog/markdown-latex-demo).
 - ...and the general flexibility that comes with Next.js!
 
 Remember, **this is a template**. It's _your code_, _your words_ and _your data_. Period.
