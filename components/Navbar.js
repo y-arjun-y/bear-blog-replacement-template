@@ -1,5 +1,4 @@
-export default function Navbar({ pages }) {
-  console.log(pages);
+export default function Navbar() {
   return (
     <header>
       <a href="/">

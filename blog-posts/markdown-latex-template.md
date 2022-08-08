@@ -1,6 +1,6 @@
 ---
 title: Markdown and LaTeX Demo
-publish_date: Aug 06, 2022
+publish_date: Aug 07, 2022
 meta_description: Demo of Markdown and LaTeX for the Bear Blog Replacement Template.
 ---
 
@@ -91,6 +91,16 @@ Block code "fences"
 Sample text here...
 ```
 
+Syntax highlighting
+
+```js
+var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+```
+
 ## Tables
 
 | Option | Description                                                               |
@@ -115,19 +125,6 @@ Right aligned columns
 
 ![Grizzly Bear](https://static.vecteezy.com/system/resources/thumbnails/001/278/712/original/happy-grizzly-bear-sitting-in-pond-nature-wildlife-wet-fur.jpg)
 
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
 Footnote 1 link[^first].
@@ -143,30 +140,6 @@ Duplicated footnote reference[^second].
     and multiple paragraphs.
 
 [^second]: Footnote text.
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-: Definition 1
-with lazy continuation.
-
-Term 2 with _inline markup_
-
-: Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-~ Definition 1
-
-Term 2
-~ Definition 2a
-~ Definition 2b
 
 # LaTeX
 

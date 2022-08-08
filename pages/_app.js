@@ -1,8 +1,11 @@
-import matter from "gray-matter";
 import Head from "next/head";
-import Navbar from "./components/Navbar";
+import Navbar from "/components/Navbar";
+{
+  /* Change "highlight.js/styles/monokai-sublime.css" to any highlight.js theme you want! */
+}
+import "highlight.js/styles/monokai-sublime.css";
 
-function BearBlogReplacementTemplate({ Component, pageProps, pages }) {
+function BearBlogReplacementTemplate({ Component, pageProps }) {
   return (
     <>
       <Head>
@@ -29,38 +32,10 @@ function BearBlogReplacementTemplate({ Component, pageProps, pages }) {
           renderMathInElement(document.body);
         </script>
       </Head>
-      <Navbar pages={pages} />
+      <Navbar />
       <Component {...pageProps} />
     </>
   );
-}
-
-export async function getStaticProps() {
-  // const files = fs.readdirSync("./blog-posts");
-
-  // const pages = files.map((fileName) => {
-  //   const slug = fileName.replace(".md", "");
-  //   const readFile = fs.readFileSync(`./blog-posts/${fileName}`, "utf-8");
-  //   const { data: frontmatter } = matter(readFile);
-
-  //   return {
-  //     slug,
-  //     frontmatter,
-  //   };
-  // });
-
-  // return {
-  //   props: {
-  //     pages,
-  //   },
-  // };
-  const pages = "Hello, world!";
-
-  return {
-    props: {
-      pages,
-    },
-  };
 }
 
 export default BearBlogReplacementTemplate;
