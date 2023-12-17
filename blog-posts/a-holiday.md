@@ -1,8 +1,6 @@
-# Owen Dobson
+### A Holiday: A Poem Expressing My Inner Feelings and Expressions About Being Gay
 
-## A Holiday: A Poem Expressing My Inner Feelings and Expressions About Being Gay
-
-Owen Dobson
+By. Owen Dobson
 
 ![Blue and white smoke illustration](/aholidaycover.avif)
 
