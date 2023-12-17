@@ -6,11 +6,11 @@ who has obtained a media pass for SHIP U athletics. He is also a PR member at SA
 and communicates with stakeholders. He is currently pursuing multiple degrees in high school, vocational school, andcommunity college, with a 
 focus on information systems technology, business, and entrepreneurship. He maintains a 3.5 GPA at his high school and has received multiple honors 
 and certifications for his academic performance and skills. He plans to attend post-secondary education in the business/entrepreneurship industry 
-and expand his personal brand in photography and social media.
+and expand his brand in photography and social media.
 
 ### Professional
-- [Linkedin](https://linkedin.com/in/owendob23
-- [Resume](https://wiki.owendobson.com/resume
+- [Linkedin](https://linkedin.com/in/owendob23)
+- [Resume](https://wiki.owendobson.com/resume)
 - [Personal Portfolio](https://www.owendobson.com)
 - [Acadmic Jounral](https://wiki.owendobson.com)
 - [Modeling Portfolio](https://owendobson.com/modeling)
