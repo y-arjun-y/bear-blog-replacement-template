@@ -3,7 +3,11 @@ import matter from "gray-matter";
 import Head from "next/head";
 
 export async function getStaticProps() {
-  const files = fs.readdirSync("./blog-posts");
+  let files = fs.readdirSync("./blog-posts");
+
+  files = files.filter(function (item) {
+    return item !== "drafts";
+  });
 
   const posts = files.map((fileName) => {
     const slug = fileName.replace(".md", "");
@@ -34,26 +38,20 @@ export default function Blog({ posts }) {
   return (
     <>
       <Head>
-        <meta
-          property="og:title"
-          content="Welcome to the Bear Blog Replacement Template!"
-        />
+        <meta property="og:title" content="Welcome to an organizational wiki of Owen Dobson's life." />
         <meta
           property="og:image"
           content="https://lh3.google.com/u/0/d/10qRLt5785FRn6IBo-LaDxcz3dhfjYtaK=w2880-h1528-iv1"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:title"
-          content="Welcome to the Bear Blog Replacement Template!"
-        />
+        <meta name="twitter:title" content="Welcome to an organizational wiki of Owen Dobson's life." />
         <title>Blog</title>
       </Head>
       <ul>
         {posts.map(({ slug, frontmatter }) => (
           <li key={slug}>
             <span style={{ display: "inline" }}>
-              <time>{frontmatter.publish_date.substring(0, 12)}</time>
+              {frontmatter.publish_date && frontmatter.publish_date.substring(0, 12)}
               <a href={`/blog/${slug}`}>{frontmatter.title}</a>
             </span>
           </li>
