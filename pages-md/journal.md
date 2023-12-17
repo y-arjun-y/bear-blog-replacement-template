@@ -27,14 +27,14 @@ It has been an eventful two weeks. I have been doing better with my mental healt
 Hey. I went to my first town council meeting it went well. I also went on the Keystone Challenge Academy Tour, which was amazing. It thrilled me. I didn't go to school that day and I got Starbucks and went shopping, it was so slay. I lost the Candicady to VP of fashion but at least I had the confidence to stand in front of everyone and give a no-notice last-minute  speech while the other person did it from their seat and I submitted supporting documents. I have worked a few bakery and bagger shifts which was great. I have been working on developing my venture called Solvitivo. We offer post-secondary education planning services to those students currently pursuing a high school diploma or GED. I have launched internships and things and organized operational efforts. I have cleaned out my followers/follow list to clean out my life of toxic people and past friendships. I went to the Shippensburg University Library to study for my FBLA project and I was able to get a study room. I got so much done, and I felt so happy about it. I reorganized my papers in a file box and my binder. I got a Ralph Lauren small/miniature backpack in which I organize all my stuff as my main backpack is too big to bring throughout the school (no backpack rule). I got a photoshoot of my best friend's 1st anniversary with her boyfriend so slay. 
 
 What my calendar for next week looks like with more to come.
-![image](https://github.com/otdobson/owendobsonwiki/assets/63920494/4c9d5ea9-abe6-4106-9bba-c670cc6b061a)
+![image](/cal17thto23rddec.PNG)
 
 
 Calendar week of December 10th to December 16th 
-![image](https://github.com/otdobson/owendobsonwiki/assets/63920494/cd4e7856-3d68-4fe2-a69f-f103f757e245)
+![image](cal10thto16thdec.PNG)
 
 Calendar week of December 3rd to December 9th
-![image](https://github.com/otdobson/owendobsonwiki/assets/63920494/ba01413b-c786-4cb1-96a4-ce7250b9a269)
+![image](cal3rdto9thdec.PNG)
 
 I am like so busy, but I like being busy so slay. 
 
