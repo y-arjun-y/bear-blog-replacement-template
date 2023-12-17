@@ -11,7 +11,7 @@ export default function Navbar() {
           <a href="/resume/">Resume</a>
           <a href="https://linkedin.com/in/owendob23">Linkedin</a>
           <a href="/links/">Links</a>
-          <a href="/Notebook/">Notebook</a>
+          <a href="/notebook/">Notebook</a>
           <a href="/journal/">Journal</a>
         </p>
       </nav>
