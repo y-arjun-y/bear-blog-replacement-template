@@ -16,7 +16,7 @@ Jace raises his concerns to his department manager. He recommends modifying ANNE
 Next week, Jace is slated to meet with the top executives at Synergy Consulting and provide recommendations for the future of AI use at the company. What should Jace suggest to his company’s leadership? Should he recommend reprogramming ANNETTE to be more formal and transactional? Or should he recommend continuing with ANNETTE’s design as-is, knowing this may lead to ANNETTE—or other chatbots—receiving an expanded role at the company?"
 
 
-Instructions: [Manual for this project]()
+Instructions: [Manual for this project](/Business_Ethics_23_24.pdf)
 
 Materials 
 
@@ -45,6 +45,6 @@ John Ruane Presdient of Giant (TBA)
 
  My summary:
 
- Completed summary link [Business Ethics Summary](Owen_Dobson_Business_Ethics_Summary.pdf)
+ Completed summary link [Business Ethics Summary](/Owen_Dobson_Business_Ethics_Summary.pdf)
  Objective test: took December 7th. Easy to the factor of the interviews. Scored at least 95%.
  Presentation. TBA Due 12/18/2023 when I present. 
