@@ -16,14 +16,14 @@ He sees no longer, only blinded by his past and what he could have been. “Why 
 dares to talk to him. His room is filled with these notes hanging in places you may not consider. He tries and tries and tries, the people-pleaser part of him always gets the best. Only to love, 
 never to receive is the definition of his little life. He tries again to love someone only to receive hate from himself if he deserves to be loved after what he's done. He sends a new person a note 
 and a quick smile, his heart and a quick sense of connection, a bright wonderful person he thinks to himself, everything he does, his personality, he loves it. But he wonders how do I deserve this, do I 
-deserve him. He wonders this in his self-consciousness constantly without remorse haunting him like a ghost from behind, always lurking but never there. He needs to be better, but he can't, he's too nervous
+deserve him? He wonders this in his self-consciousness constantly without remorse haunting him like a ghost from behind, always lurking but never there. He needs to be better, but he can't, he's too nervous
 and always will be a little gay boy. Everyone tells him things to do, like, or to say, only for him to wonder if he doesn't even know what he wants. Following a path already set in stone on his back, the era 
 begins once again; the era of the depression. He tries and tries, only to fail, never to succeed. He believes the bright, wonderful person he has become friends with is actually in love with him, but he doesn't 
 know if he is and is self-doubting himself, what if he's straight; the underlying question? He needs to get his feelings out, he writes a poem or two cries, and follows in pursuit. Only to repeat never to get better 
 in the eyes of the ones who gave him this life. Only to disappoint. At this point, he's done. Then comes a holiday and the whole thing comes back to the way it was, another depressing era. Strangely enough, he looks 
 forward to these holidays, I cannot fathom why, but he does, he is just that way; the dumb one, the present-moment folk. He doesn't understand how a time of global celebrations could be so heartbreaking when it 
 should be cute and exciting. He dresses the way he thinks he will like, wondering if it's too gay for him. Will he like it, or will he hate it? He thinks to himself, it would be so amazing and my utmost goal is to 
-just lie my head on him and fall asleep,; forget about my problems, snuggle with the one I love, play with his hair before I fall asleep, forget my insecurities, forget my vulnerable state, forget who I am. 
+just lie my head on him and fall asleep, forget about my problems, snuggle with the one I love, play with his hair before I fall asleep, forget my insecurities, forget my vulnerable state, forget who I am. 
 Attend a pumpkin patch and create pumpkins that look like each other while hiding, then show them to each other when finished. Loving him when he cannot even love himself, silly little boy, why should he? 
 He believes he doesn't need to love himself, having someone love him is just enough to make him feel happy, he seeks validation you know?
 
@@ -38,7 +38,7 @@ Author
 
 Owen Dobson
 ![Owen_image](/owen.png)
-Student at Shippensburg Area Senior High School, the Franklin County Career Center and Harrisburg Area Community College.
+Student at Shippensburg Area Senior High School, the Franklin County Career Center, and Harrisburg Area Community College.
 
 717-219-8693
 
