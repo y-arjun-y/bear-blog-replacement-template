@@ -36,7 +36,7 @@ export default function Blog({ posts }) {
       <Head>
         <meta
           property="og:title"
-          content="Welcome to the Bear Blog Replacement Template!"
+        nacontent="Welcome to an organizational wiki of Owen Dobson's life."
         />
         <meta
           property="og:image"
@@ -45,7 +45,8 @@ export default function Blog({ posts }) {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Welcome to the Bear Blog Replacement Template!"
+          content="Welcome to an organizational wiki of Owen Dobson's life."
+          <meta name="twitter:title" content="Welcome to my organizational wiki!" />
         />
         <title>Blog</title>
       </Head>
@@ -53,7 +54,7 @@ export default function Blog({ posts }) {
         {posts.map(({ slug, frontmatter }) => (
           <li key={slug}>
             <span style={{ display: "inline" }}>
-              <time>{frontmatter.publish_date.substring(0, 12)}</time>
+              <time>{frontmatter.publish_date ? frontmatter.publish_date.substring(0, 12) : ''}</time>
               <a href={`/blog/${slug}`}>{frontmatter.title}</a>
             </span>
           </li>
