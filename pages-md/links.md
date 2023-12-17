@@ -11,7 +11,8 @@ and expand his brand in photography and social media.
 - [Linkedin](https://linkedin.com/in/owendob23)
 - [Resume](https://wiki.owendobson.com/resume)
 - [Personal Portfolio](https://www.owendobson.com)
-- [Acadmic Jounral](https://wiki.owendobson.com)
+- [Acadmic Journal](https://wiki.owendobson.com/notebook)
+- [Log Journal/Diary](https://wiki.owendobson.com/journal)
 - [Modeling Portfolio](https://owendobson.com/modeling)
 - [Photography Portfolio](https://www.owendobsonphotography.com)
 
@@ -46,6 +47,7 @@ and expand his brand in photography and social media.
 - [Photography Portfolio](https://www.owendobsonphotography.com)
 - [Personal Portfolio](https://www.owendobson.com)
 - [Acadmic Jounral](https://wiki.owendobson.com)
+- [Log Journal/Diary](https://wiki.owendobson.com/journal)
 - [Modeling Portfolio](https://owendobson.com/modeling)
 
 ### Contact
