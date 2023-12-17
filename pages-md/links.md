@@ -1,8 +1,6 @@
 ### Links and Resources 
 
 ### Owen T. Dobson
-Aspiring Entrepreneur
-![image](https://github.com/otdobson/owendobsonwiki/assets/63920494/f105eba7-4456-4c82-af99-280e8f865a96)
 
 Owen Dobson is a founder at Solvitivo, a startup that offers innovative solutions for various problems, and a freelance photographer, 
 who has obtained a media pass for SHIP U athletics. He is also a PR member at SASHS Minithon at Four Diamonds, where he arranges meeting dates 
@@ -24,7 +22,7 @@ and expand his brand in photography and social media.
 - [Twitter](https://twitter.com/otdobson)
 - [Linkedin](https://www.linkedin.com/in/owendob23)
 - [Personal Portfolio](https://www.owendobson.com)
-- [VSCO](https://vsco.co/owendob23
+- [VSCO](https://vsco.co/owendob23)
 
 ### Owen Dobson Photography
 - [Instagram](https://instagram.com/owendphotos)
