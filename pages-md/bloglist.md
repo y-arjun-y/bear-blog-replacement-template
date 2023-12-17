@@ -1,1 +1,1 @@
-December 17th, 2023 [A Holiday](/a-holiday), Reperesenting my depper intermost thoughts. 
+December 17th, 2023 [A Holiday](/blog/a-holiday), Representing my deeper innermost thoughts. 
