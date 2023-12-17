@@ -56,7 +56,9 @@ and expand his brand in photography and social media.
 
 
 ### More About Me
+
 [Profile Pic](/owen.png)
+
 Aspiring Entrepreneur
 
 
