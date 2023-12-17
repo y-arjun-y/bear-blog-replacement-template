@@ -51,7 +51,7 @@ export default function Blog({ posts }) {
         {posts.map(({ slug, frontmatter }) => (
           <li key={slug}>
             <span style={{ display: "inline" }}>
-              <time>{frontmatter.publish_date.substring(0, 12)}</time>
+              {frontmatter.publish_date && frontmatter.publish_date.substring(0, 12)}
               <a href={`/blog/${slug}`}>{frontmatter.title}</a>
             </span>
           </li>
