@@ -1,4 +1,6 @@
-## Owen T. Dobson
+### Links and Resources 
+
+### Owen T. Dobson
 Aspiring Entrepreneur
 ![image](https://github.com/otdobson/owendobsonwiki/assets/63920494/f105eba7-4456-4c82-af99-280e8f865a96)
 
@@ -40,7 +42,7 @@ and expand his brand in photography and social media.
 
 ### Solvitivo Acadmic Academy
 - [Website](https://solvitivo.com)
-- [Instagram](https://instagram.com/solvitivo
+- [Instagram](https://instagram.com/solvitivo)
 - [Linkedin](https://www.linkedin.com/company/99072113)
 - [Email](mailto:contact@solvitivo.com)
 
