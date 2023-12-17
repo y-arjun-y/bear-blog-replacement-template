@@ -38,7 +38,7 @@ Calendar week of December 3rd to December 9th
 
 I am like so busy, but I like being busy so slay. 
 
-The FBLA PA Region 26 Regionals is next Monday so like very slay. I am going to be running for Region 26 Secretary so I have to give a speech in front of about 1000 people. So slay. Somehow I am not nervous though, because I am just too slay. I am also going to present my Business Ethics Competition which I am so proud of. Anyway, I have to research meditation for therapy so I will do that by Wednesday. I am also doing an NSHSS takeover during the Regional conference. I have drama practice on Tuesday and then afterward I have to walk to the Town Council Meeting. I have an interview with John Ruane for my FBLA Competitive Event, even though I cannot finish it in time for the project it will still be interesting. [My Business Ethics Project](https:?/wiki.owendobson.com/notebook#Business_Ethics_Project_23/24
+The FBLA PA Region 26 Regionals is next Monday so like very slay. I am going to be running for Region 26 Secretary so I have to give a speech in front of about 1000 people. So slay. Somehow I am not nervous though, because I am just too slay. I am also going to present my Business Ethics Competition which I am so proud of. Anyway, I have to research meditation for therapy so I will do that by Wednesday. I am also doing an NSHSS takeover during the Regional conference. I have drama practice on Tuesday and then afterward I have to walk to the Town Council Meeting. I have an interview with John Ruane for my FBLA Competitive Event, even though I cannot finish it in time for the project it will still be interesting. [My Business Ethics Project](https://wiki.owendobson.com/notebook#Business_Ethics_Project_23/24)
 
 
 
