@@ -2,6 +2,11 @@
 
 This page is where my Academic Notebook is.
 
+### Table of Contents
+
+### Projects
+1. [FBLA Business Ethics Project 23/24](#Business_Ethics_Project_23/24)
+
 ### Business_Ethics_Project_23/24
 
 Objective
