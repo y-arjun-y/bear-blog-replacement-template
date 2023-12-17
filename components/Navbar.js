@@ -8,7 +8,7 @@ export default function Navbar() {
         <p>
           <a href="/">Home</a>
           <a href="/blog/">Blog</a>
-          <a href="~/Files/Resume.pdf">Resume</a>
+          <a href="/resume">Resume</a>
           <a href="https://linkedin.com/in/owendob23">Linkedin</a>
           <a href="/links/">Links</a>
           <a href="/notebook/">Notebook</a>
