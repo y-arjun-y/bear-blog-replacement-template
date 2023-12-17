@@ -53,3 +53,13 @@ and expand his brand in photography and social media.
 ### Contact
 - [Email](mailto:contact@owendobson.com)
 - Phone: ‪717-219-7818‬
+
+
+### More About Me
+[Profile Pic](/owen.png)
+Aspiring Entrepreneur
+
+
+My name is Owen Dobson and I attend Shippensburg Area Senior High School. In addition, I attend the Franklin County Career Tech Center for IST and the Harrisburg Area Community College for Dual Enrollment where I have taken business classes. I have started a photography and modeling freelance services venture as well as a Post Secondary Education Academy/Agency that offers post-secondary education consulting to those in a High School diploma or GED-related program. I am extensively involved throughout my local community. Feel free to contact me at owen@owendobson.com or connect with me on LinkedIn at linkedin.com/owendob23.
+
+
