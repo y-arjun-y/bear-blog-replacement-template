@@ -10,6 +10,7 @@ export default function Navbar() {
           <a href="/blog/">Blog</a>
           <a href="/resume/">Resume</a>
           <a href="https://linkedin.com/in/owendob23">Linkedin</a>
+          <a href="/links/">Links</a>
         </p>
       </nav>
     </header>
