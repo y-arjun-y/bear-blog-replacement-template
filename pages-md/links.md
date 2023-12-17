@@ -1,7 +1,5 @@
 ### Links and Resources 
 
-### Owen T. Dobson
-
 Owen Dobson is a founder at Solvitivo, a startup that offers innovative solutions for various problems, and a freelance photographer, 
 who has obtained a media pass for SHIP U athletics. He is also a PR member at SASHS Minithon at Four Diamonds, where he arranges meeting dates 
 and communicates with stakeholders. He is currently pursuing multiple degrees in high school, vocational school, andcommunity college, with a 
