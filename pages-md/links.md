@@ -13,7 +13,7 @@ and expand his brand in photography and social media.
 - [Personal Portfolio](https://www.owendobson.com)
 - [Acadmic Journal](https://wiki.owendobson.com/notebook)
 - [Log Journal/Diary](https://wiki.owendobson.com/journal)
-- [Modeling Portfolio](https://owendobson.com/modeling)
+- [Modeling Portfolio](https://modeling.owendobson.com)
 - [Photography Portfolio](https://www.owendobsonphotography.com)
 
 ### Personal Social Media
@@ -32,7 +32,7 @@ and expand his brand in photography and social media.
 - [Email](mailto:contact@owendphotos.com)
 
 ### Owen Dobson Modeling
-- [Modeling Portfolio](https://owendobson.com/modeling)
+- [Modeling Portfolio](https://modeling.owendobson.com)
 - [Instagram](https://instagram.com/slaybyowen)
 - [Linkedin](https://www.linkedin.com/company/100470938)
 - [Email](mailto:modeling@owendobson.com)
@@ -48,7 +48,7 @@ and expand his brand in photography and social media.
 - [Personal Portfolio](https://www.owendobson.com)
 - [Acadmic Jounral](https://wiki.owendobson.com)
 - [Log Journal/Diary](https://wiki.owendobson.com/journal)
-- [Modeling Portfolio](https://owendobson.com/modeling)
+- [Modeling Portfolio](https://modeling.owendobson.com)
 
 ### Contact
 - [Email](mailto:contact@owendobson.com)
