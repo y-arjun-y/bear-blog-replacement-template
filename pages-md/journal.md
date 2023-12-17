@@ -1,7 +1,20 @@
+### My journal. Documenting the inns and outs of my life. 
+
+
+### Table of contents
+[2023]()
+[October]()
+[November]()
+[December]()
+
+
+
 ### Introduction: (written October 22nd, 2023)
 Hey, my name is Owen Dobson and I am a high school junior, in a small town. I am 16 years old, born in 2007. I hope to be an entrepreneur someday and to live in New York City. My dream school is New York University, which I hope to attend, however, I most likely cannot due to high tuition fees. I love everything about urban life, I find it inspiring, a way out of this small town, a reassurance of freedom. Some of my interests are photography, business, music (listening), hanging out with friends, IST (information systems tech), poetry, writing, reading, drinking coffee, cycling, going to the gym, academics, business, and others. I identify as pansexual, but I tell everyone I'm gay just because it's easier, I'm out which means I'm just another secret to them as I live in this small town. I work at a grocery store, in the curbside pickup department. It's okay there I guess, just a bit odd. I love cats (even though I don't have one because my dad is allergic) but I hope to get one someday and have them grow up with a husky to become the best of friends. So that's a little bit about me.
 
 Journaling:
+
+### 2023
 
 ### October
 
