@@ -1,8 +1,8 @@
-# Owen Dobson Logo
+# Owen Dobson
 
 ## A Holiday: A Poem Expressing My Inner Feelings and Expressions About Being Gay
 
-**Owen Dobson**
+Owen Dobson
 
 *10/22/2023 • 3 min read*
 
@@ -36,12 +36,12 @@ I wrote this poem for a narrative essay for an English class, it performed very 
 it will be my poem of choice at the November sashs coffee house show. I am nervous as it expresses my most inner feelings in front of a lot of people but you only live ones, 
 thus live for yourself, or you will live in regret. 
 
-**Author**
+Author
 
-*Owen Dobson*
+Owen Dobson
 ![Owen_image](/owen.png)
-*Student at Shippensburg Area Senior High School, the Franklin County Career Center and Harrisburg Area Community College.*
+Student at Shippensburg Area Senior High School, the Franklin County Career Center and Harrisburg Area Community College.
 
-*717-219-8693*
+717-219-8693
 
-*owen@owendobson.com*
+owen@owendobson.com
