@@ -8,6 +8,8 @@ export default function Navbar() {
         <p>
           <a href="/">Home</a>
           <a href="/blog/">Blog</a>
+          <a href="/resume/">Resume</a>
+          <a href="https://linkedin.com/in/owendob23">Linkedin</a>
         </p>
       </nav>
     </header>
