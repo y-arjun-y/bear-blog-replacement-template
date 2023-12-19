@@ -3,7 +3,7 @@
 *Persuasive Writing Editorial Assignment for Academic American Lit.*  
 By. Owen Dobson  
 
-[Ben Cover](/bencover2023.avif)
+![Ben Cover](/bencover2023.avif)
 
 ## Introduction
 
