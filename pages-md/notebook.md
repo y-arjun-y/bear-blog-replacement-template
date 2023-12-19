@@ -53,3 +53,9 @@ John Ruane Presdient of Giant (TBA)
  Completed summary link [Business Ethics Summary](/Owen_Dobson_Business_Ethics_Summary.pdf)
  Objective test: took December 7th. Easy to the factor of the interviews. Scored at least 95%.
  Presentation. TBA Due 12/18/2023 when I present. 
+
+
+
+
+12/18/2023 Did my RLC presentation. Went extremely well and moved on to the SLC due to there only being two people. Don't know my place yet due to technical errors but yeah. 
+[My FBLA Business Ethics Slideshow 23/24](/FBLA_Business_Ethics_2023_pptm)
