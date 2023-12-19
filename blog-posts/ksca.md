@@ -49,7 +49,7 @@ lessons necessary to achieve them.
 
  Welcoming Cadet Owen Dobson to the Keystone State Challenge Academy for Jan 2024 to June 2024.
  
- [Image](/owen.png)
+ ![Image](/owen.png)
 
 
 
