@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version:
+          - lts/*
+          - latest
+
+    steps:
+      - name: 📥 Fetch source
+        uses: actions/checkout@v3
+
+      - name: 🧰 Enable Node corepack
+        run: corepack enable
+
+      - name: 🧰 Set up Node ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: yarn
+
+      - name: 📥 Install dependencies
+        run: yarn install --immutable
+
+      - name: "🔍 Static analysis: run Prettier"
+        run: yarn run format:check
+
+      - name: 🔨 Check & build website
+        run: yarn run build

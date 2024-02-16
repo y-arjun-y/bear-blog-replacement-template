@@ -1,0 +1,24 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:best-practices"],
+  "addLabels": ["dependencies"],
+  "automerge": true,
+  "automergeType": "branch",
+  "minimumReleaseAge": "3 days",
+  "schedule": ["every 2 day"],
+  "rangeStrategy": "bump",
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["major"],
+      "automerge": false
+    },
+    {
+      "matchCategories": ["js"],
+      "groupName": "JS/TS dependencies"
+    },
+    {
+      "matchCategories": ["ci"],
+      "groupName": "CI dependencies"
+    }
+  ]
+}

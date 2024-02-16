@@ -1,16 +1,18 @@
+import Link from "next/link";
+
 export default function Navbar() {
   return (
     <header>
-      <a href="/">
+      <Link href="/">
         <h1>Bear Blog Replacement Template</h1>
-      </a>
+      </Link>
       <nav>
         <p>
-          <a href="/">Home</a>
-          <a href="/blog/">Blog</a>
-          <a href="/the-grizzly-bear-chill-zone/">
+          <Link href="/">Home</Link>
+          <Link href="/blog/">Blog</Link>
+          <Link href="/the-grizzly-bear-chill-zone/">
             The Grizzly Bear Chill Zone
-          </a>
+          </Link>
         </p>
       </nav>
     </header>

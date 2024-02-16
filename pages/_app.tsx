@@ -1,9 +1,10 @@
 import Head from "next/head";
-import Navbar from "/components/Navbar";
 {
   /* Change "highlight.js/styles/monokai-sublime.css" to any highlight.js theme you want! */
 }
 import "highlight.js/styles/monokai-sublime.css";
+import Navbar from "../components/Navbar";
+import Script from "next/script";
 
 function BearBlogReplacementTemplate({ Component, pageProps }) {
   return (
@@ -26,12 +27,12 @@ function BearBlogReplacementTemplate({ Component, pageProps }) {
           content="Bear Blog Replacement Template Demo"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <script type="module">
-          import renderMathInElement from
-          "https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.mjs";
-          renderMathInElement(document.body);
-        </script>
       </Head>
+      <Script type="module" id="render-math">
+        import renderMathInElement from
+        "https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.mjs";
+        renderMathInElement(document.body);
+      </Script>
       <Navbar />
       <Component {...pageProps} />
     </>

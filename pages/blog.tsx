@@ -26,8 +26,8 @@ export async function getStaticProps() {
 export default function Blog({ posts }) {
   posts.sort((a, b) => {
     return (
-      new Date(b.frontmatter.publish_date) -
-      new Date(a.frontmatter.publish_date)
+      new Date(b.frontmatter.publish_date).getTime() -
+      new Date(a.frontmatter.publish_date).getTime()
     );
   });
 
